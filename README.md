@@ -35,15 +35,22 @@ Compile: gcc structure.c -o structure
 
 Run: ./structure 
 
-sewrching.jpg
-  exit.jpg
-add_student.png
-display_student.png
+## 📸 Output 
+1. Adding Students 
+<img src="add_student.jpg" height=800px>
+
+2. Displaying Students 
+<img src="display_student.jpg" height=800px>
+
+3. Searching Students 
+<img src="searching_student.jpg" height=500px>
+
+4. Exit Program 
+<img src="exit.jpg" height=500px>
 
 ## ⚠️ Limitations
 
 - Maximum of 50 students
-
 - Console-based interface
 - No file storage (data is lost after exit)
 - No duplicate roll number check
@@ -56,7 +63,7 @@ display_student.png
 - Sorting and grading system
 - Improved validation and error handling
 - Enhanced user interface
-- 
+
 ## ➕ Possible Add-Ons
 - Admin login system
 - Export data to files
